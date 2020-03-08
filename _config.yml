@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Forecoder blog
+title: Forecoder
 
 # Short description of your site
 description: Tech blog about programming and software engineer career
@@ -21,10 +21,10 @@ description: Tech blog about programming and software engineer career
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #   - Learn markdown: "http://www.markdowntutorial.com/"
-  # Author's home: "http://deanattali.com"
+  Resources:
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,13 +71,13 @@ social-network-links:
   email: "greenclawanderson@gmail.com"
   facebook: deanattali
   github: greenclaw
+  linkedin: romanvarnava
+  stackoverflow: "5973959/roman-anderson"
+  instagram: roman_underson
   # twitter: daattali
 #  reddit: yourname
- linkedin: romanvarnava
 #  xing: yourname
- stackoverflow: "5973959/roman-anderson"
 #  snapchat: deanat78
- instagram: roman_underson
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -160,7 +160,7 @@ timezone: "Europe/Moscow"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 6
 
 kramdown:
   input: GFM
